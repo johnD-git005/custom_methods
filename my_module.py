@@ -1,5 +1,5 @@
 class Array:
-    def __init__(self) -> None:
+    def __init__(self):
         self.variable = []
 
     def __str__(self):
